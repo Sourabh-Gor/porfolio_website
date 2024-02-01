@@ -25,11 +25,11 @@ const HeroSection = () => {
                         sequence={[
                             'Sourabh J Gor',
                             1000,
-                            'Devloper',
+                            'A Developer',
                             1000,
                             'Tech-savy',
                             1000,
-                            'Team Worker',
+                            'A Team Worker',
                             1000,
                             'Innovative',
                             1000
